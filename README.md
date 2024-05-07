@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Richa Roy</h1>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NodeJS**
 
 - 👀 I’m interested in **Competitive Programming**
 
@@ -8,8 +8,8 @@
 
 # Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/richa-roy-a2214922a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richa-roy-a2214922a" height="30" width="40" /></a>
-<a href="https://instagram.com/richaroy_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="richaroy_07" height="30" width="40" /></a>
+<a href="_https://linkedin.com/in/richa-roy-a2214922a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richa-roy-a2214922a" height="30" width="40" /></a>
+<a href="_https://instagram.com/richaroy_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="richaroy_07" height="30" width="40" /></a>
 </p>
 
 # Tech Stack:
